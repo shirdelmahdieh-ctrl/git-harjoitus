@@ -46,3 +46,8 @@ Opin luomaan haaroja, tallentamaan muutoksia ja yhdistamaan haaroja. Harjoitteli
 Opin lisaksi kayttamaan GitHubia SSH-yhteydella ja tekemaan Pull Requestin.
 
 Harjoituksen aikana tein Pythonilla Kivi, paperi, sakset -pelin, johon lisasin pisteiden laskemisen.
+
+## Tekijän tiedot
+
+Nimi: Mahdieh Shirdel
+Opiskelijanumero: 2609269
