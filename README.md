@@ -12,3 +12,4 @@ Peli kertoo voittajan ja laskee pisteet.
 
 Harjoitella Python-ohjelmointia ja
 Git-versionhallintaa.
+Pelin seuraava versio: useita kierroksia
