@@ -1,1 +1,2 @@
 Opiskelijan tehtavat
+Opiskele Git-komentoja
