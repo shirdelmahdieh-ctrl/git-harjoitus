@@ -36,3 +36,5 @@ if pelaaja in vaihtoehdot:
 
 print("Pelaajan pisteet:", pelaajan_pisteet)
 print("Tietokoneen pisteet:", tietokoneen_pisteet)
+
+print("Kiitos pelaamisesta!")
