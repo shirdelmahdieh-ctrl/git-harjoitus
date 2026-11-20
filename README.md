@@ -1,9 +1,17 @@
-# Opiskelijan tehtavalista
+# Kivi, paperi, sakset
 
-Tama projekti on Git-versionhallinnan harjoitustyo.
+Tämä on Pythonilla toteutettu kivi, paperi, sakset -peli.
 
-Projektin tarkoituksena on harjoitella Gitin
-kayttoa ja versionhallinnan eri komentoja.
+## Pelin idea
 
-Projektissa luodaan opiskelijan tehtavalista,
-johon voi lisata opiskeluun liittyvia tehtavia.
+Pelaaja pelaa tietokonetta vastaan.
+Pelaaja valitsee kiven, paperin tai sakset.
+Tietokone tekee satunnaisen valinnan.
+
+Peli kertoo, voittiko pelaaja, tietokone vai
+tuliko tasapeli.
+
+## Projektin tavoite
+
+Harjoitella Python-ohjelmointia ja
+Git-versionhallinnan käyttöä.
